@@ -1,6 +1,7 @@
 # Programmation Python pour les mathématiques en ECG
 
-**Paul Liauataud**, [Sorbonne Université](http://www.sorbonne-universite.fr/)
+**Magali Rocher** (Lycée Stanislas) et **Paul Liautaud** [(Sorbonne Université)](http://www.sorbonne-universite.fr/)
+
 
 Les notebooks peuvent être exécutés sur gesis.org en cliquant sur le bouton suivant:
 
