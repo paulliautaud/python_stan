@@ -2,7 +2,6 @@ jupyterlab
 numpy
 scipy
 matplotlib
-mpl_toolkits.mplot3d
 sympy
 pandas
 numba
